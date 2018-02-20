@@ -5,8 +5,8 @@ COMPILE_PATH=/home/susu/mydev/tamil-tts-install/compiled
 
 #Register here http://htk.eng.cam.ac.uk/download.shtml and get a username and password
 
-HTKUSER=kiwiyan
-HTKPASSWORD=@xcgwqh4
+HTKUSER=username
+HTKPASSWORD=password
 
 
 sudo apt-get install  wget festival libx11-dev perl  build-essential g++-4.7 csh gawk bc sox tcsh default-jre lame   -y
