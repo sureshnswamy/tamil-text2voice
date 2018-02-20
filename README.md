@@ -1,6 +1,6 @@
 # Tamil-text2vocie
 
-Thnaks to : [T Shrinivasan <tshrinivasan@gmail.com>](https://github.com/tshrinivasan/tamil-tts-install)
+Thanks to : [T Shrinivasan <tshrinivasan@gmail.com>](https://github.com/tshrinivasan/tamil-tts-install) for the shell python script.
 
 
 This is a script to install the Tamil text to Speech System provided by [IIT Madras](https://www.iitm.ac.in/donlab/tts/voices.php) and SSN College of Engineering.
